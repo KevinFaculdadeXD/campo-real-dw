@@ -51,3 +51,5 @@ Durante o trabalho a API respondeu **HTTP 403** a chamadas programáticas, enqua
 
 ## Regras do trabalho cumpridas
 As tabelas de origem nunca são alteradas: a limpeza acontece no caminho até o DW, e o painel lê somente `dw_campo_real`.
+
+XD
